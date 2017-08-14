@@ -1,6 +1,6 @@
 # foodback-server
 
-# killing the nodemon process
+## killing the nodemon process
 
 ```
 netstat -ano | findstr :<port>
