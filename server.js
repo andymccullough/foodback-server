@@ -15,6 +15,10 @@ const menusArray = [{
     id: "1",
     title: "My Menu",
     likes: 0
+}, {
+    id: "2",
+    title: "My Menu 2",
+    likes: 0
 }];
 
 
